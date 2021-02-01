@@ -2,4 +2,10 @@
 
 Bem vindo ao meu livro de receitas!! :wave:
 
+Repositório criado para uso prático do git e github durante aula do Fulano no curso em parceria com a Digital Inovation One
+
+Adicionando novas receitas: pâo de queijo e bolo de fubá
+
 * Strogonoff de frango
+* Pâo de queijo
+* Bolo de fubá
