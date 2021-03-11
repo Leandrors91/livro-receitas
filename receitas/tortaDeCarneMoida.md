@@ -1,4 +1,4 @@
-#Ingredientes
+# Ingredientes
 
 * 2 xícaras de farinha de trigo
 * 1 xícara de óleo obs: menos dois dedos para encher
@@ -9,7 +9,7 @@
 * Carne moída cozida sem molho temperada
 * Opção ervilha, presunto, milho verde.
     
-#Modo de Preparo    
+# Modo de Preparo    
 
 * Passar tudo no liquidificador.
 
